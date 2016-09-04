@@ -1,0 +1,545 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.382032347698,48.4420493489176 ]
+    },
+    "properties": {
+    "Park_Name":"Arbutus Park",
+    "Area":"Burnside/Gorge",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.388378580547,48.4381618944385 ]
+    },
+    "properties": {
+    "Park_Name":"Banfield Park",
+    "Area":"Vic West",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.34360816349,48.4340074646676 ]
+    },
+    "properties": {
+    "Park_Name":"Alexander Park",
+    "Area":"Fernwood",
+    "Open":"Open All Year (6AM - 10AM; 4PM - 10PM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.350226847389,48.4056367282314 ]
+    },
+    "properties": {
+    "Park_Name":"Clover Point Park",
+    "Area":"Fairfield",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.355236194889,48.4063759331279 ]
+    },
+    "properties": {
+    "Park_Name":"Dallas Road Beach",
+    "Area":"James Bay",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.330469261773,48.4115103623522 ]
+    },
+    "properties": {
+    "Park_Name":"Gonzales Beach Area",
+    "Area":"Gonzales",
+    "Open":"Open September - May"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.32489498875,48.4136778926439 ]
+    },
+    "properties": {
+    "Park_Name":"Gonzales Hill Regional Park",
+    "Area":"Gonzales",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.344799057562,48.4452986312629 ]
+    },
+    "properties": {
+    "Park_Name":"Oswald Park",
+    "Area":"Oaklands",
+    "Open":"Open All Year (6AM - 10PM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.328007216963,48.4189865072373 ]
+    },
+    "properties": {
+    "Park_Name":"Pemberton Park",
+    "Area":"Gonzales",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.324684073894,48.4292997395564 ]
+    },
+    "properties": {
+    "Park_Name":"Redfern Park",
+    "Area":"Jubilee",
+    "Open":"Open All Year (6AM - 10AM; 4PM - 10PM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366959,48.572419 ]
+    },
+    "properties": {
+    "Park_Name":"Island View Beach Regional Park",
+    "Area":"Central Saanich",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363401009091,48.4439992787629 ]
+    },
+    "properties": {
+    "Park_Name":"Topaz Park",
+    "Area":"Hillside/Quadra",
+    "Open":"Open All Year (6AM - 10AM; 4PM - 10PM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.38213963064,48.4314789985501 ]
+    },
+    "properties": {
+    "Park_Name":"Victoria West Park",
+    "Area":"Vic West",
+    "Open":"Open All Year (6AM - 10PM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.423227,48.586421 ]
+    },
+    "properties": {
+    "Park_Name":"Centennial Park",
+    "Area":"Central Saanich",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.41011349999997,48.4188148 ]
+    },
+    "properties": {
+    "Park_Name":"Macauley Point Park",
+    "Area":"Esquimalt",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.4177856,48.422263 ]
+    },
+    "properties": {
+    "Park_Name":"Saxe Point Park",
+    "Area":"Esquimalt",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.4066315,48.4343324 ]
+    },
+    "properties": {
+    "Park_Name":"Highrock/Cairn Park",
+    "Area":"Esquimalt",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.51388880000002,48.5191666 ]
+    },
+    "properties": {
+    "Park_Name":"Lone Tree Hill Park",
+    "Area":"Highlands",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.48003030000001,48.5495373 ]
+    },
+    "properties": {
+    "Park_Name":"Mount Work Regional Park",
+    "Area":"Highlands",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.4816343,48.4526373 ]
+    },
+    "properties": {
+    "Park_Name":"Mill Hill Regional Park",
+    "Area":"Langford",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.55487199999999,48.4476961 ]
+    },
+    "properties": {
+    "Park_Name":"Mount Wells Regional Park",
+    "Area":"Langford",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.39862929999998,48.4280914 ]
+    },
+    "properties": {
+    "Park_Name":"Captain Jacobson Park",
+    "Area":"Esquimalt",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.464087,48.631356 ]
+    },
+    "properties": {
+    "Park_Name":"Coles Bay Regional Park",
+    "Area":"North Saanich",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.43703600000003,48.6825949 ]
+    },
+    "properties": {
+    "Park_Name":"Horth Hill Regional Park ",
+    "Area":"North Saanich",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.30783510000003,48.4217313 ]
+    },
+    "properties": {
+    "Park_Name":"Windsor Park",
+    "Area":"Oak Bay",
+    "Open":"Open July - August (Sunrise - 9AM); September - June (Sunrise - 11 AM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.31325049999998,48.41314449999999 ]
+    },
+    "properties": {
+    "Park_Name":"McNeill Bay Beach",
+    "Area":"Oak Bay",
+    "Open":"Open All Year (Sunrise - Sunset)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.29461520000001,48.4464812 ]
+    },
+    "properties": {
+    "Park_Name":"Loon Bay Park",
+    "Area":"Oak Bay",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3153974,48.444348 ]
+    },
+    "properties": {
+    "Park_Name":"Oakdowne Park",
+    "Area":"Oak Bay",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.31730649999997,48.42653669999999 ]
+    },
+    "properties": {
+    "Park_Name":"Oak Bay Municipal Hall Park",
+    "Area":"Oak Bay",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.32047019999999,48.4114953 ]
+    },
+    "properties": {
+    "Park_Name":"Walbran Park",
+    "Area":"Oak Bay",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.30655482597649,48.413568243177224 ]
+    },
+    "properties": {
+    "Park_Name":"Anderson Hill Park",
+    "Area":"Oak Bay",
+    "Open":"Open July-March"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.2979982,48.44101389999999 ]
+    },
+    "properties": {
+    "Park_Name":"Uplands Park/Cattle Point",
+    "Area":"Oak Bay",
+    "Open":"Open July-March"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.29455459999997,48.4597261 ]
+    },
+    "properties": {
+    "Park_Name":"Cadboro-Gyro Park",
+    "Area":"Saanich",
+    "Open":"Open September - April"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36650110781193,48.5219768145252 ]
+    },
+    "properties": {
+    "Park_Name":"Cordova Bay Beach",
+    "Area":"Saanich",
+    "Open":"Open September - April"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.33479569999997,48.4974476 ]
+    },
+    "properties": {
+    "Park_Name":"Mount Douglas Park Beach",
+    "Area":"Saanich",
+    "Open":"Open September - April"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.41295580000002,48.54628489999999 ]
+    },
+    "properties": {
+    "Park_Name":"Bear Hill Regional Park",
+    "Area":"Saanich",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.39355469999998,48.5246067 ]
+    },
+    "properties": {
+    "Park_Name":"Elk/Beaver Lake Regional Park",
+    "Area":"Saanich",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.345437,48.4923785 ]
+    },
+    "properties": {
+    "Park_Name":"Mount Douglas Park",
+    "Area":"Saanich",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.32562250000001,48.45688839999999 ]
+    },
+    "properties": {
+    "Park_Name":"Mount Tolmie Park",
+    "Area":"Saanich",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3966029,48.4561675 ]
+    },
+    "properties": {
+    "Park_Name":"Cuthbert Holmes Park",
+    "Area":"Burnside/Gorge",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.30544259999999,48.4572279 ]
+    },
+    "properties": {
+    "Park_Name":"Cedar Hill Corner/uVic Dog Park",
+    "Area":"Saanich",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36602700000003,48.53454290000001 ]
+    },
+    "properties": {
+    "Park_Name":"Parker Park",
+    "Area":"Saanich ",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.43786932528019,48.46065708428337 ]
+    },
+    "properties": {
+    "Park_Name":"View Royal Park",
+    "Area":"View Royal",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.37922220000002,48.4282662 ]
+    },
+    "properties": {
+    "Park_Name":"Songhees Hilltop",
+    "Area":"Vic West",
+    "Open":"Open All Year"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.46374727785587,48.463218296481784 ]
+    },
+    "properties": {
+    "Park_Name":"Thetis Lake Regional Park",
+    "Area":"View Royal",
+    "Open":"Open All Year"
+    }
+  }
+]
+}
